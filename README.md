@@ -13,8 +13,8 @@ Material baseado na apostila: "ACH2023 - ALGORITMOS E ESTRUTURAS DE DADOS I" de 
 
 ---
 
-- [Aula 1](aula-1/aula-1.md)
-- [Aula 2](aula-2/aula-2.md)
+- [Aula 1](aulas/aula-1/aula-1.md)
+- [Aula 2](aulas/aula-2/aula-2.md)
 - Aula 3
 - Aula 4
 - Aula 5
