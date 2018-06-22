@@ -8,3 +8,8 @@ int main() {
     return 0;
 }
 ```
+
+Compilando: `gcc -o hello_world hello_world.c`
+
+Executando: `./hello_world`
+
